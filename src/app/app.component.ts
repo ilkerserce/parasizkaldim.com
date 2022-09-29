@@ -1,7 +1,5 @@
 import { Component } from '@angular/core';
 import { PostService } from './services/post.service';
-import { PostsArchive } from './home-main/posts';
-
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
